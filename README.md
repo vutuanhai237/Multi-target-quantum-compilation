@@ -1,6 +1,6 @@
 [![Unitary Fund](https://img.shields.io/badge/Supported%20By-UNITARY%20FUND-brightgreen.svg?style=for-the-badge)](https://unitary.fund)
 
-# GA - QAS: Genetic algorithm for quantum architecture search
+# Multi-target quantum compilation algorithm
  
 This project aims to use GA to search for the best ansatz for some hybrid quantum-classical models such as VQA, Quantum state preparation, and Quantum state tomography. 
 
